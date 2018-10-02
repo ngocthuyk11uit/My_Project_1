@@ -1,5 +1,3 @@
-N|Soli
-_______________________________________
 PRIVATE CLINIC MANAGEMENT SOFTWARE.
 ________________________________________
 PROJECT TITLE:
